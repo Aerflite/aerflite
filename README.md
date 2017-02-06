@@ -8,11 +8,6 @@ an enhanced model flying experience.
 
 Aerflite is a  simple and fun flight controller in the spirit of the original [ArduPilot](http://www.ardupilot.org) <sup id="a1">[1](#note1)</sup>
 
-See the Aerflite flight controller in action on YouTube:
-
-https://www.youtube.com/watch?v=wHkbLSR1hrA
-
-
 ## Features
 
 
